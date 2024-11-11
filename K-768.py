@@ -10,7 +10,7 @@ root.geometry("300x300")
 
 def sub_count():
     # Your RapidAPI key
-    api_key = "e687b04fe4mshb95b7f39190f9a9p11cb1fjsnb049123d02e3"  
+    api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  #API FROM RAPIDAPI (YOUTUBE v4)
 
     # The URL for the YouTube API endpoint (from RapidAPI)
     url = "https://youtube-v31.p.rapidapi.com/channels"
